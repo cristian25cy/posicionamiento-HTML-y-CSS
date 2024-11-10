@@ -1,0 +1,55 @@
+.cuerpo{
+  width: 1900px;
+  height: 900px;
+  background-color: gray;
+}
+
+.titulo{
+    color: black;
+    text-align: center;
+    font-size: 31px;
+}
+
+.cuadro{
+    width: 1800px;
+    height: 50px;
+    background-color: darkslategray;
+    position: relative;
+    left: 50px;
+}
+
+.cuadro2{
+    width: 1800px;
+    height: 100px;
+    background-color: darkslategray;
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+
+.cuadro3{
+    width: 1500px;
+    height: 500px;
+    background-color: darkslategray;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+.cuadro4{
+    width: 280px;
+    height: 500px;
+    background-color: darkslategray;
+    position: relative;
+    left: 1570px;
+    bottom: 450px;
+}
+
+.cuadro5{
+    width: 1800px;
+    height: 100px;
+    background-color: darkslategray;
+    position: relative;
+    left: 50px;
+    bottom: 435px;
+}
